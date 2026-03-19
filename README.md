@@ -63,7 +63,7 @@ Follow these steps to run NET-WATCH on your local machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/NetWatch-GenAI-Auditor.git
+git clone https://github.com/Yashwin-i/NetWatch-GenAI-Auditor.git
 cd NetWatch-GenAI-Auditor
 ```
 
@@ -108,4 +108,4 @@ Open your web browser and navigate to `http://localhost:3000`.
 * **Analyze:** Check the Sovereignty Meter to see the ratio of localized vs. exfiltrated data.
 * **Forensics:** If a payload is caught, click **VIEW EVIDENCE** to see the decoded Base64 hidden data.
 * **AI Reasoning:** Click the **✨ GenAI Audit** button to synthesize the raw packet data into a plain-English DPDP compliance report.
-* **Visualize:** Click **LIVE MAP ➔** to watch data paths render in 3D in real-time.
+* **Visualize:** Click **LIVE MAP ➔** to watch data paths render in 3D in real-time.
